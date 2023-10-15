@@ -1,14 +1,14 @@
-(go to CONTRIBUTING.md and this file and search for the keywords "REPLACE"&"INSERT" to complete the setup.)
+![ssoma-ai](ssoma-logo.svg)
 
-![mngr-bot](thumbnail.svg) [REPLACE WITH LOGO]
+# ssoma-ai: 🧠 💬 AI: now in a local environment near you.
 
-# [INSERT REPOSTIORY NAME]: [INSERT REPOSITORY DESCRIPTION]
+## What is ssoma-ai?
 
-## What is [INSERT REPOSTIORY NAME]?
+Just me trying to produce a capable, efficient AI model that can fit in and run in my local environment.
 
-## More about [INSERT REPOSTIORY NAME] and how it was developed 🧪
+## More about ssoma-ai and how it was developed 🧪
 
-![principles of the model](principle.png) [REPLACE WITH IMAGE]
+There is something special about this project. I think I've dreamed about it every night since a year ago. Now I'm building it, and I just can't wait to see how it grows.
 
 ## How to contribute 🤝
 
